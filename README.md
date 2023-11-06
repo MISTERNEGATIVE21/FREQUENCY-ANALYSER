@@ -30,6 +30,14 @@ The program operates on both cores:
 ### Important Note
 Both functionalities could run on a single core, but by separating them, disturbances to the WiFi signal won't freeze the entire program.
 
+## Required Libraries
+
+Make sure to have the following libraries with their respective versions installed:
+- [arduinoFFT (v1.6.1)](https://github.com/kosme/arduinoFFT)
+- [EasyButton (v2.0.3)](https://github.com/evert-arias/EasyButton)
+- [WiFiManager (v2.0.6)](https://github.com/tzapu/WiFiManager)
+- [WebSockets (v2.4)](https://github.com/Links2004/arduinoWebSockets)
+  
 ### Getting Started
 The HTTP server is initiated, and the webserver task runs on core 0.
 
