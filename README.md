@@ -4,7 +4,7 @@ Web Based Frequency Analyzer using FFT
 
 This project is a fork of [Webspector](https://github.com/donnersm/Webspector), originally written by Mark Donners.
 
-![Spectrum Analyzer](https://github.com/MISTERNEGATIVE21/FREQUENCY-ANALYSER/instruct.webp)
+![Spectrum Analyzer](https://github.com/MISTERNEGATIVE21/FREQUENCY-ANALYSER/instructables.webp)
 
 The Electronic Engineer:
 - Website: [www.theelectronicengineer.nl](www.theelectronicengineer.nl)
